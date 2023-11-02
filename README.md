@@ -6,7 +6,7 @@ landing page built with html css and dynamic navigator menu using java script (O
 
 ## Author: Hesham Ahmed
 
-## Techs:
+## Tech:
 
 1. html5
 2. css3
